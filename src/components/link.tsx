@@ -1,5 +1,3 @@
-import { INews } from '../model'
-
 interface SearchProps {
     title: string
 }
