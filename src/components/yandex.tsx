@@ -6,10 +6,6 @@ import TextItem from './text-item'
 import CaseItem from './case-item'
 import Ads from './ads'
 
-interface YandexProps {
-
-}
-
 function Yandex() {
 
     return (
